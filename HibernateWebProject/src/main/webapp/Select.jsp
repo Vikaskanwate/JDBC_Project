@@ -15,7 +15,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h1>Student List</h1>
+				<h1>Student Details</h1>
 				<table class="table">
 					<thead>
 						<tr>
